@@ -9,7 +9,8 @@ import time
 project_index_htmlsummary_url="https://review.tizen.org/git/"
 ignore_projects = ['Legacy-Projects',
                    'Private-Projects',
-                   'Public-Projects',]
+                   'Public-Projects',
+                   'Public-Temp-Projects',]
 
 username = os.environ['USER']
 
